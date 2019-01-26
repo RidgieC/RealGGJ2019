@@ -1,0 +1,10 @@
+- Title screen
+- Empty area
+- One goal
+- Can change camera hue at will
+- Breadcrumbs depending on the hue (might give a number of hue changes)
+- Objects depending on the hue
+- Objects disappear, but linger when hue changes
+- Level traversal to reach the goal (running, jumping etc)
+- Reach end goal and the game ends
+- Restart option
